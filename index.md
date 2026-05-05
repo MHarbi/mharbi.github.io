@@ -105,6 +105,8 @@ title: ""
 
 <div class="coming-soon-wrapper">
 
+  <img src="{{'/assets/img/234567fghjk.png' | relative_url}}" alt="Taibah University" height="70" style="margin-bottom: .5em;"/>
+
   <p class="cs-label">Academic Personal Website</p>
 
   <h1 class="cs-name">Dr. Mohammed Alharbi</h1>
