@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+theme: minima
+title: Home | Mohammed Alharbi''s Site # the website title (if blank, full name will be used instead)
 first_name: Mohammed
 middle_name: M.
 last_name: Alharbi
@@ -22,3 +23,4 @@ baseurl:
 last_updated: false
 impressum_path: 
 back_to_top: false
+
