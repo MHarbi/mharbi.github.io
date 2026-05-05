@@ -108,7 +108,7 @@ title: ""
   <p class="cs-label">Academic Personal Website</p>
 
   <h1 class="cs-name">Dr. Mohammed Alharbi</h1>
-  <p class="cs-title">Assistant Professor · Department of Information Systems · Taibah University</p>
+  <p class="cs-title">Assistant Professor</p>
 
   <hr class="cs-divider">
 
