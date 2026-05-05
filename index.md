@@ -125,9 +125,4 @@ title: ""
     <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener">ORCID</a>-->
   </div>
 
-  <p class="cs-contact">
-    📍 Department of Information Systems, Taibah University, Mahinah, Saudi Arabia<br>
-    ✉️ <a href="mailto:[mahharbi@taibahu.edu.sa]">[your.email@university.edu]</a>
-  </p>
-
 </div>
