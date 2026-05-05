@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-#theme: minima
+theme: minima
 title: Mohammed A. Alharbi
 first_name: Mohammed
 middle_name: M.
@@ -36,8 +36,6 @@ minima:
   show_excerpts: true
   
 # Build settings
-baseurl: /minima
-remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
