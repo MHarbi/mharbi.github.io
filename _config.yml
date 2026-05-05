@@ -9,7 +9,7 @@ middle_name: M.
 last_name: Alharbi
 author:
   name: Mohammed A. Alharbi
-  email: mahharbi@taibahu.edu.sa
+  #email: mahharbi@taibahu.edu.sa
 description: # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
