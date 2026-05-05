@@ -1,10 +1,5 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule/
----
----
-layout: page
 title: "Office Hours & Teaching Schedule"
 permalink: /schedule/
 ---
@@ -15,7 +10,7 @@ Welcome! Below you'll find my current office hours and course timetable for the 
 
 ## 🕐 Office Hours
 
-**Location:** Room F-188, Building# 172  
+**Location:** Room# F-188, Building# 172  
 
 
 | Day | Time | Format | Notes |
@@ -93,7 +88,8 @@ Welcome! Below you'll find my current office hours and course timetable for the 
 ---
 
 ## Official Approved Schedule
-<img src="{{'/assets/img/Dr.MohmdHarbi-schedule.png' | relative_url}}" alt="Official Approved Schedule" height="70" style="margin-bottom: .5em;"/>
+<a href="{{'/assets/img/Dr.MohmdHarbi-schedule.png' | relative_url}}">
+<img src="{{'/assets/img/Dr.MohmdHarbi-schedule.png' | relative_url}}" alt="Official Approved Schedule" style="width: 100%;height: auto;margin-bottom: .5em;"/></a>
 
 
 *Last updated: {{ site.time | date: "%B %Y" }}*
