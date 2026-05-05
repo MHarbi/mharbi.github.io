@@ -3,7 +3,7 @@ layout: page
 title: "Office Hours & Teaching Schedule"
 permalink: /schedule/
 ---
-<img src="{{'/assets/img/234567fghjk.png' | relative_url}}" alt="Taibah University" height="70" style="margin-bottom: .5em;"/>
+<img src="{{'/assets/img/234567fghjk.png' | relative_url}}" alt="Taibah University" height="70" style="margin-bottom: .5em;display: block;margin-right: auto;margin-left: auto;"/>
 
 Welcome! Below you'll find my current office hours and course timetable for the academic semester. Students are encouraged to drop in during office hours — no appointment needed. For matters requiring more time, please reach out by email to schedule a dedicated meeting.
 
