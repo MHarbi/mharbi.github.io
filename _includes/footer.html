@@ -10,9 +10,9 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+            <li class="p-name"><b>{{ site.author.name | escape }}</b></li>
           {% endif -%}
-          <li class="p-name">📍 Department of Information Systems, <br>Taibah University, <br>Mahinah, Saudi Arabia</li>
+          <li class="p-name">📍 Department of Information Systems, <br>&nbsp;&nbsp;&nbsp;Taibah University, <br>&nbsp;&nbsp;&nbsp;Mahinah, Saudi Arabia</li>
           {% if site.author.email -%}
             <li>✉️ <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
