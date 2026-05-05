@@ -1,3 +1,5 @@
+<img src="{{'/assets/img/234567fghjk.png' | relative_url}}" alt="Taibah University" height="70" style="margin-bottom: .5em;"/>
+
 ---
 layout: page
 title: "Office Hours & Teaching Schedule"
