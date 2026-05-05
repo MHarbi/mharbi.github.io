@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-theme: minima
+# theme: minima
+remote_theme: "jekyll/minima@4de3223"
 title: Mohammed A. Alharbi
 first_name: Mohammed
 middle_name: M.
